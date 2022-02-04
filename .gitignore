@@ -5,7 +5,6 @@
 target
 .classpath
 .project
-.idea
 reports
 *.log
 *.iml
