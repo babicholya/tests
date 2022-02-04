@@ -1,14 +1,14 @@
 package mygroupId.carina.demo;
 
-import mygroupId.carina.demo.gui.pages.*;
-import org.testng.Assert;
+import com.qaprosoft.carina.core.foundation.IAbstractTest;
+import mygroupId.carina.demo.gui.pages.EstimateProjectPage;
+import mygroupId.carina.demo.gui.pages.GetResultPage;
+import mygroupId.carina.demo.gui.pages.HomePage;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-import com.qaprosoft.carina.core.foundation.IAbstractTest;
 
-
-public class WebSampleTest implements IAbstractTest {
+public class EstimateProjectTest implements IAbstractTest {
 
     @Test()
     public void estimateProjectTest() {

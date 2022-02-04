@@ -3,7 +3,7 @@
 
 	<test name="web tests">
 		<classes>
-			<class name="mygroupId.carina.demo.WebSampleTest" />
+			<class name="mygroupId.carina.demo.EstimateProjectTest" />
 		</classes>
 	</test>
 
